@@ -6,7 +6,8 @@
   "components": [
     {
       "type": "pet",
-      "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping"
+      "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping",
+      "attractedTo": "fruit"
     }
   ]
 }
